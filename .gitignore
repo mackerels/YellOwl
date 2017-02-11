@@ -1,0 +1,10 @@
+packages/
+Forismatic/bin
+Forismatic/obj
+VkPublisher/bin
+VkPublisher/obj
+YellOwl/bin
+YellOwl/obj
+YellOwl.Abstractions/bin
+YellOwl.Abstractions/obj
+.idea/
